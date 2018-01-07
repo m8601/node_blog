@@ -13,6 +13,7 @@
   "author": "Robert Szymanski",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "mongoose": "^5.0.0-rc2"
   }
 }
